@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Mohammad Bayati\source\repos\abstract_tree\abstract_tree\abt_tester.h(144,19): warning C4101: 'ex': unreferenced local variable
+C:\Users\Mohammad Bayati\source\repos\abstract_tree\abstract_tree\abt_tester.h(147,19): warning C4101: 'ex': unreferenced local variable
+  abstract_tree.vcxproj -> C:\Users\Mohammad Bayati\source\repos\abstract_tree\Debug\abstract_tree.exe
